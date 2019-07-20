@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "LearningGo",
+            "version": "0.0.1",
+            "description": "this repository holds code from my first hello world in the go language",
+            "longDescription": "",
+            "githubLink": "https://github.com/michaelpeterswa/LearningGo",
+            "date": "07.20.2019"
+        }
+    ]
+}
